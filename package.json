@@ -1,0 +1,63 @@
+{
+  "name": "wave-delight-extension-pack",
+  "displayName": "Wave Delight Extension Pack",
+  "description": "A Essential  Extension pack for Web design.",
+  "version": "0.0.1",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "publisher": "sadhu",
+  "author": {
+    "name": "Divyanshu Maurya",
+    "url": "https://github.com/itzDm",
+    "email": "divyanshumaurya99@gmail.com"
+  },
+  "icon": "assets/logo.webp",
+  "engines": {
+    "vscode": "^1.7.0"
+  },
+  "galleryBanner": {
+    "color": "#140e1a",
+    "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "pack",
+    "extension pack",
+    "dark",
+    "wave-delight",
+    "wave delight",
+    "wave",
+    "delight",
+    "latest",
+    "latest themes",
+    "latest theme",
+    "color-theme",
+    "Wave Delight Extension Pack",
+    "Html Css Js  Extension Pack",
+    "HTML",
+    "Css",
+    "Java scripts"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "pkief.material-icon-theme",
+    "ritwickdey.liveserver",
+    "sadhu.wave-delight",
+    "streetsidesoftware.code-spell-checker",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+    "ecmel.vscode-html-css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzDM/Wave-Delight-Extension-Pack"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Divyanshu Maurya"
+  }
+}
