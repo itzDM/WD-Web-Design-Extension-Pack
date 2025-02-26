@@ -1,8 +1,8 @@
 {
   "name": "wave-delight-web-design-pack",
-  "displayName": "Wave Delight Web design Extension Pack",
+  "displayName": "WD Web design Extension Pack",
   "description": "A Essential  Extension pack for Web design.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "publish": "vsce publish"
   },
@@ -33,6 +33,8 @@
     "delight",
     "latest",
     "latest themes",
+    "WD",
+    "WD web Design",
     "latest theme",
     "color-theme",
     "Wave Delight Extension Pack",
